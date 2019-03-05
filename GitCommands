@@ -5,3 +5,12 @@ Config---> Must
 
 initializing repository
     git init
+
+add file in staging area
+    git add <FILE NAME>
+    git add * <It add all files>
+    git add *.java <FOR ALL JAVA FILES>
+
+commit changes
+
+    git commit -m "<MESSAGE HERE>"
