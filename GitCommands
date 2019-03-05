@@ -1,0 +1,7 @@
+Config---> Must
+    git config --global user.name = "Manish sharma"
+    git config --global user.email "manish_sharma@persistent.com"
+    git config --global core.editor notepad
+
+initializing repository
+    git init
